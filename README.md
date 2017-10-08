@@ -2,7 +2,7 @@ For Raspberry Pi
 ================
 
 * Raspberry Pi 3
-* Docker - `Get Docker CE for Debian <https://docs.docker.com/engine/installation/linux/docker-ce/debian/#install-using-the-repository>`_
+* Docker - [Get Docker CE for Debian](https://docs.docker.com/engine/installation/linux/docker-ce/debian/#install-using-the-repository)
 
 ```
 $ docker version
